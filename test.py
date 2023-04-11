@@ -1,0 +1,1 @@
+print('h' in 'hello')
